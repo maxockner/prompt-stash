@@ -7,7 +7,9 @@
 - GPT-4.1
 - Gemini 2.5 Pro
 
-📦 Also included: full **Claude Code** system prompt
+📦 Also included:
+- full **Claude Code** system prompt
+- full **Grok3** system prompt
 
 All prompts were extracted through a combination of **manual and [automated](https://x.com/maxockner/status/1917683770339254523) techniques**
 
